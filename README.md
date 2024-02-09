@@ -2,12 +2,12 @@
 My name is Navid Ashraf, and I am currently pursuing a master's degree in computer science.<br>
 You can find my repositories listed below:
 
-- [to-do list](https://naweed93.github.io/todo-js/) [live-preview](https://naweed93.github.io/todo-js/)
-- [tic-tac-toe](https://github.com/Naweed93/todo-js) [live-preview](https://naweed93.github.io/tic-tac-toe/)
-- [website dashboard](https://github.com/Naweed93/odin-dashboard) [live-preview](https://naweed93.github.io/odin-dashboard/)
-- [landing page](https://github.com/Naweed93/odin-landing-page) [live-preview](https://naweed93.github.io/odin-landing-page/)
-- [rock paper scissor](https://github.com/Naweed93/js-rock-paper-scissors) [live-preview](https://naweed93.github.io/js-rock-paper-scissors/)
-- [sign up form](https://github.com/Naweed93/odin-sign-up-form) [live-preview](https://naweed93.github.io/odin-sign-up-form/)
+- [to-do list](https://naweed93.github.io/todo-js/)  -  [live-preview](https://naweed93.github.io/todo-js/)
+- [tic-tac-toe](https://github.com/Naweed93/todo-js)  -  [live-preview](https://naweed93.github.io/tic-tac-toe/)
+- [website dashboard](https://github.com/Naweed93/odin-dashboard)  -  [live-preview](https://naweed93.github.io/odin-dashboard/)
+- [landing page](https://github.com/Naweed93/odin-landing-page)  -  [live-preview](https://naweed93.github.io/odin-landing-page/)
+- [rock paper scissor](https://github.com/Naweed93/js-rock-paper-scissors)  -  [live-preview](https://naweed93.github.io/js-rock-paper-scissors/)
+- [sign up form](https://github.com/Naweed93/odin-sign-up-form)  -  [live-preview](https://naweed93.github.io/odin-sign-up-form/)
 <!--
 **Naweed93/naweed93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
